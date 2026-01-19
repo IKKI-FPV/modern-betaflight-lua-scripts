@@ -7,7 +7,7 @@ ENGLISH
 A complete restyling of the Betaflight Lua Script interface for EdgeTX radios with color screens and touch screens (e.g., Radiomaster TX16S, TX15, Boxer Max).
 
 <p align="center">
-  <img src="images/screen1.jpg" width="45%" />
+  <img src="images/screen1.jpg" width="50%" />
 </p>
 
 ## 🚀 Features
