@@ -1,8 +1,7 @@
 # Modern Betaflight Lua Scripts UI
 
-ENGLISH
 
-# Modern Betaflight Lua Scripts UI
+ENGLISH
 
 A complete restyling of the Betaflight Lua Script interface for EdgeTX radios with color screens and touch screens (e.g., Radiomaster TX16S, TX15, Boxer Max).
 
