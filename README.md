@@ -11,12 +11,7 @@ A complete restyling of the Betaflight Lua Script interface for EdgeTX radios wi
 </p>
 
 ## 🚀 Features
-* **Modern Design:** Goodbye to the old 90s graphics. Clean, Card-based, Dashboard-style interface.
-* **Smart Layout:** Values no longer overlap with long names. When you select a row, the layout expands to two levels for maximum readability.
-* **Touch Screen Ready:**
-    * Tap a row to select it.
-    * Tap to enter edit mode.
-    * **Active Header:** Tap left to go "Back", tap right ("MENU") to save/reboot.
+* **Modern Design:** Goodbye to the old 90s graphics. Clean, Card-based, Dashboard-sty
 * **Betaflight Colors:** Dark theme with Official Betaflight Orange accents.
 * **Large Fonts:** Utilizes DBLSIZE/XXL fonts for easy reading in the field.
 
@@ -45,11 +40,6 @@ Un restyling completo dell'interfaccia Lua Script di Betaflight per radio EdgeTX
 
 ## 🚀 Caratteristiche
 * **Design Moderno:** Addio alla vecchia grafica anni '90. Interfaccia pulita, Card-based, stile Dashboard.
-* **Smart Layout:** I valori non si sovrappongono più ai nomi lunghi. Quando selezioni una riga, il layout si espande su due livelli per la massima leggibilità.
-* **Touch Screen Ready:**
-    * Tap su una riga per selezionarla.
-    * Tap per entrare in modifica.
-    * **Header Attivo:** Tocca a sinistra per "Indietro", tocca a destra ("MENU") per salvare/riavviare.
 * **Colori Betaflight:** Tema scuro con accenti Arancione Ufficiale Betaflight.
 * **Font Grandi:** Sfrutta i font DBLSIZE/XXL per una lettura facile sul campo.
 
