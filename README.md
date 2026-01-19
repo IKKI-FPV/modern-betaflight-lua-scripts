@@ -8,7 +8,6 @@ A complete restyling of the Betaflight Lua Script interface for EdgeTX radios wi
 
 <p align="center">
   <img src="images/screen1.jpg" width="45%" />
-  <img src="images/screen2.jpg" width="45%" />
 </p>
 
 ## 🚀 Features
