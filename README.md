@@ -16,8 +16,7 @@ A complete restyling of the Betaflight Lua Script interface for EdgeTX radios wi
 
 ## ⚠️ Important Requirements
 * **Radio:** Must have a color screen (e.g., TX16S, TX15, Zorro Color). It does **NOT** work well on small monochrome screens (e.g., X-Lite, QX7).
-* **EdgeTX:** Version **2.8 or higher** recommended for Touch Screen support.
-    * *Note:* If you use older versions, the script will still work with buttons and the scroll wheel, but touch features will be disabled.
+
 
 ## 📥 Installation
 1.  Download the official Betaflight Lua scripts: [Betaflight Configurator Link](https://github.com/betaflight/betaflight-tx-lua-scripts)
@@ -44,8 +43,6 @@ Un restyling completo dell'interfaccia Lua Script di Betaflight per radio EdgeTX
 
 ## ⚠️ Requisiti Importanti
 * **Radio:** Deve avere uno schermo a colori (es. TX16S, TX15, Zorro Color). **NON** funziona bene su schermi monocromatici piccoli (es. X-Lite, QX7).
-* **EdgeTX:** Versione **2.8 o superiore** consigliata per il supporto Touch Screen.
-    * *Nota:* Se usi versioni vecchie, lo script funziona comunque con tasti e rotella, ma il touch sarà disabilitato.
 
 ## 📥 Installazione
 1.  Scarica gli script ufficiali Betaflight Lua: [Betaflight Configurator Link](https://github.com/betaflight/betaflight-tx-lua-scripts)
